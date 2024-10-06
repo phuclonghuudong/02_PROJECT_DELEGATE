@@ -1,0 +1,6 @@
+module.exports = Object.freeze({
+  MONGDO_DATABASE_COLLECTTION: "",
+  MONGGO_DBNAME: "",
+  MONGO_COLLECTTION_USERS: "",
+  MONGO_COLLECTTION_PRODUCTS: "",
+});
